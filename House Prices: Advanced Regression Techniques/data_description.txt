@@ -92,7 +92,7 @@ Neighborhood: Physical locations within Ames city limits
        IDOTRR Iowa DOT and Rail Road
        MeadowV       Meadow Village
        Mitchel       Mitchell
-       Names  North Ames
+       NAmes  North Ames
        NoRidge       Northridge
        NPkVill       Northpark Villa
        NridgHt       Northridge Heights
@@ -133,8 +133,8 @@ Condition2: Proximity to various conditions (if more than one is present)
 BldgType: Type of dwelling
               
        1Fam   Single-family Detached      
-       2FmCon Two-family Conversion; originally built as one-family dwelling
-       Duplx  Duplex
+       2fmCon Two-family Conversion; originally built as one-family dwelling
+       Duplex  Duplex
        TwnhsE Townhouse End Unit
        TwnhsI Townhouse Inside Unit
        
@@ -226,7 +226,7 @@ Exterior2nd: Exterior covering on house (if more than one material)
        BrkComm       Brick Common
        BrkFace       Brick Face
        CBlock Cinder Block
-       CemntBd       Cement Board
+       CmentBd       Cement Board
        HdBoard       Hard Board
        ImStucc       Imitation Stucco
        MetalSd       Metal Siding
@@ -374,7 +374,7 @@ FullBath: Full bathrooms above grade
 
 HalfBath: Half baths above grade
 
-Bedroom: Bedrooms above grade (does NOT include basement bedrooms)
+BedroomAbvGr: Bedrooms above grade (does NOT include basement bedrooms)
 
 Kitchen: Kitchens above grade
 
