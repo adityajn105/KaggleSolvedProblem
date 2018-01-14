@@ -11,7 +11,7 @@
 2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) Score - 0.18217
 3. [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn) Accuracy - 0.91281
 4. [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction) Not Done
-5. [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand) Not Done
+5. [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand) Score - 2.39119
 6. [Random Acts of Pizza](https://www.kaggle.com/c/random-acts-of-pizza) Not Done
 7. [Sentiment Analysis on Movie Reviews](http://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) Not Done
 8. [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) Not Done
