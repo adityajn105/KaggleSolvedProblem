@@ -16,6 +16,6 @@
 7. [Sentiment Analysis on Movie Reviews](http://www.kaggle.com/c/sentiment-analysis-on-movie-reviews) Not Done
 8. [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) Not Done
 9. [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge/data) Not Done
-10. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) Not Done
+10. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) Accuracy - 0.99042
 11. [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection) Not Done
 12. [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) Not Done
