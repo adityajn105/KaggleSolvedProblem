@@ -15,3 +15,6 @@
 12. [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) Not Done
 13.	[Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo) Accuracy - 0.73534
 14. [What's Cooking](https://www.kaggle.com/c/whats-cooking-kernels-only/overview) Accuracy - 0.697497  # Pending for better Accuracy
+15. [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) Not Done
+16. [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) Not Done
+17. [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) Not Done
