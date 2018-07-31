@@ -1,7 +1,7 @@
 # This is repository to store solutions to data science problem solved by me given on Kaggle.
 
 ## Problems
-1. [*Titanic: Machine Learning from Disaster ](https://www.kaggle.com/c/titanic)  Accuracy - 0.80382 # Pending for better Accuracy
+1. [*Titanic: Machine Learning from Disaster ](https://www.kaggle.com/c/titanic)  Accuracy - 0.80382
 2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) Score - 0.18217 # Pending for better Accuracy
 3. [Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn) Accuracy - 0.91281
 4. [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction) Accuracy - 0.74479 # Pending for better Accuracy
