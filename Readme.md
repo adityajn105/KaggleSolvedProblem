@@ -18,3 +18,4 @@
 15. [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) Not Done
 16. [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) Not Done
 17. [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) Not Done
+18. [Twitter sentiment analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2) 0.72608 # Pending for better Accuracy
