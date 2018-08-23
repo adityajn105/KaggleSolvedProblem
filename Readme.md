@@ -8,7 +8,7 @@
 Index  | Kaggle Link  | Status | Tags
 ------------- | ------------- | ------------- | -------------
 1  | [Titanic: Machine Learning from Disaster ](https://www.kaggle.com/c/titanic) | ACC: 0.80382 | Data Cleaning, Feature Engineering
-2  | [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand) | MAE: 0.50357 | Seaborn, Feature Engineering, Keras ANN
+2  | [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand) | MAE: 0.50357 | Seaborn, Feature Eng, Keras ANN
 3  | [Twitter sentiment analysis](https://www.kaggle.com/c/twitter-sentiment-analysis2) | *ACC: 0.72608 | NLTK, textual classification
 4  | [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) | ACC: 0.99042 | Keras CNN, Image Classification
 5  | [What's Cooking](https://www.kaggle.com/c/whats-cooking-kernels-only/overview) | *ACC: 0.697497 | 
@@ -19,7 +19,7 @@ Index  | Kaggle Link  | Status | Tags
 10 | [Ghouls, Goblins, and Ghosts... Boo!](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo) | ACC: 0.73534 |
 11 | [Amazon.com - Employee Access Challenge](https://www.kaggle.com/c/amazon-employee-access-challenge/) | ACC: 0.67644 |
 12 | [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) | Not Done |
-13 | [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) | *Acc: 81.964 | Word2Vec, Gensim, NLP
+13 | [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial) | *ACC: 81.964 | Word2Vec, Gensim, NLP
 14 | [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction) | Not Done |
 15 | [Random Acts of Pizza](https://www.kaggle.com/c/random-acts-of-pizza) | Not Done |
 16 | [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/) | Not Done | Topic Similarity, NLP 
@@ -27,6 +27,6 @@ Index  | Kaggle Link  | Status | Tags
 18 | [Facial Keypoints Detection](https://www.kaggle.com/c/facial-keypoints-detection) | Not Done |
 19 | [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/) | Not Done | 
 20 | [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus) | Not Done | 
-21 | - | Not Done |
+21 | [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) | ACC: 78.257 | Keras CNN, Image Classification
 22 | - | Not Done |
 23 | - | Not Done |
