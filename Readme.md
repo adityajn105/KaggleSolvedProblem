@@ -2,8 +2,8 @@
 
 ## Problems
 * `*` - To be Improved Later
-* `ACC` - Accuracy (For Classification Problems)
-* `MAE` - Mean Absolute Error * 100  (For Regression Problems)
+* `ACC` - Accuracy / 100 (For Classification Problems)
+* `MAE` - Mean Absolute Error / 100 (For Regression Problems)
 
 Index  | Kaggle Link  | Status | Tags
 ------------- | ------------- | ------------- | -------------
@@ -28,5 +28,5 @@ Index  | Kaggle Link  | Status | Tags
 19 | [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/) | Not Done | 
 20 | [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus) | Not Done | 
 21 | [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) | ACC: 78.257 | Keras CNN, Image Classification
-22 | - | Not Done |
+22 | [Human Activity Recognition with Smartphones](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/) | *ACC: 0.9619 | MultiClass Classification
 23 | - | Not Done |
