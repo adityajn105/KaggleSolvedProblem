@@ -29,4 +29,7 @@ Index  | Kaggle Link  | Status | Tags
 20 | [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus) | Not Done | 
 21 | [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) | ACC: 78.257 | Keras CNN, Image Classification
 22 | [Human Activity Recognition with Smartphones](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/) | *ACC: 0.9619 | MultiClass Classification
-23 | - | Not Done |
+23 | [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/) | *ACC: 0.9989 | Keras CNN, Image Classification 
+24 | - | Not Done |
+25 | - | Not Done |
+26 | - | Not Done |
